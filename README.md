@@ -12,3 +12,39 @@ através do React JS;
 através do Next JS;
 * Utilizar o Next JS para a definição de uma API no estilo REST, de uso interno, com
 acesso via função fetch, oferecida no ambiente padrão do Java Script.
+
+
+
+# React JS
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielAntunes-dev/mundoDois-praticoTres
+
+# Go into the repository
+$ cd livros-react
+
+# Install dependencies
+$ npm install
+
+# Run server
+$ npm start
+
+# running http://localhost:3000/
+```
+
+# Next JS
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielAntunes-dev/mundoDois-praticoTres
+
+# Go into the repository
+$ cd livros-next
+
+# Install dependencies
+$ npm install
+
+# Run server
+$ npm run dev
+
+# running http://localhost:3030/
+```
